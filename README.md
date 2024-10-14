@@ -18,3 +18,6 @@ Adding login feature
 
 ### BRANCH: feature/logout
 Adding logout feature.
+
+### BRANCH: feature/user-list
+Adding user list.
